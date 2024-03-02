@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tobiken-Obi
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, HTML, CSS JavaScript, TypeScript and React.
 
 <!---
 Tobiken-Obi/Tobiken-Obi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
